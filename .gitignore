@@ -1,0 +1,5 @@
+# venv
+myvenv-ml/
+
+# VSCodr
+*.code-workspace
