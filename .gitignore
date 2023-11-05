@@ -1,8 +1,7 @@
-# venv
+# misc
 myvenv-ml/
-
-# VSCode
 *.code-workspace
+*.csv
 
 # Data
 data/
