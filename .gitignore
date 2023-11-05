@@ -1,5 +1,9 @@
 # venv
 myvenv-ml/
 
-# VSCodr
+# VSCode
 *.code-workspace
+
+# Data
+data/
+data_description/
