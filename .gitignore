@@ -1,4 +1,8 @@
+# misc
+myvenv-ml/
+*.code-workspace
+*.csv
+
+# Data
 data/
 data_description/
-*.csv
-myvenv-ml/
